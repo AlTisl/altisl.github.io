@@ -1,6 +1,9 @@
-# About Me
+# Alexander Tislichenko
 **Date of Birth:** March 28, 1981 (**Age:** 44)  
 **Location:** Zaporizhzhia, Ukraine
+
+**Telegram:** [@alexander_ti](https://t.me/alexander_ti)  
+**Email:** altis1024@gmail.com
 
 ## Skills
 
