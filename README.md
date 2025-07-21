@@ -25,7 +25,7 @@
 
 ## Sertificates
 
-**HackerRank:** [SQL (Intermediate)](https://www.hackerrank.com/certificates/f798954e16da)
+- **HackerRank:** [SQL (Intermediate)](https://www.hackerrank.com/certificates/f798954e16da)
 
  ## Education
  
