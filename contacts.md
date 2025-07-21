@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Contacts"
 permalink: /contacts
-
+---
 ## Contacts
 
 **Telegram: ** @alexander_ti  
