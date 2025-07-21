@@ -3,7 +3,9 @@
 **Location:** Zaporizhzhia, Ukraine
 
 **Telegram:** [@alexander_ti](https://t.me/alexander_ti)  
-**Email:** altis1024@gmail.com
+**Email:** [altis1024@gmail.com](altis1024@gmail.com)
+
+**GitHub profile:** [Alexander Tislichenko (AlTisl)](https://github.com/AlTisl)
 
 ## Skills
 
@@ -21,7 +23,12 @@
    - ukrainian, russian - native (C2);
    - english - intermediate (B1)
 
+## Sertificates
+
+**HackerRank:** [SQL (Intermediate)](https://www.hackerrank.com/certificates/f798954e16da)
+
  ## Education
+ 
  - *october 2003 - october 2006:* Doctoral studies at Zaporizhzhia State Engineering Academy (ZSEA).  
 Major: "Technology, Equipment and Production of Electronic Devices";
  - *september 2001 - june 2003:* Postgraduate education at ZSEA.  
