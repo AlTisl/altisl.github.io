@@ -3,7 +3,7 @@
 **Location:** Zaporizhzhia, Ukraine
 
 **Telegram:** [@alexander_ti](https://t.me/alexander_ti)  
-**Email:** [altis1024@gmail.com](altis1024@gmail.com)
+**Email:** <altis1024@gmail.com>
 
 **GitHub profile:** [Alexander Tislichenko (AlTisl)](https://github.com/AlTisl)
 
