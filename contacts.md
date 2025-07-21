@@ -1,5 +1,6 @@
 ---
 layout: page
+theme: jekyll-theme-tactile
 title: "Contacts"
 permalink: /contacts
 ---
