@@ -36,7 +36,7 @@
 
 - [**SQL Intermediate**](https://www.hackerrank.com/certificates/f798954e16da) (sertificate) - Apr 12, 2025.
 
- ## Education
+## Education
  
  - *october 2003 - october 2006:* Doctoral studies at Zaporizhzhia State Engineering Academy (ZSEA).  
 Major: "Technology, Equipment and Production of Electronic Devices";
