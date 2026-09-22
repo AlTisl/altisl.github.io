@@ -1,5 +1,5 @@
 # Alexander Tislichenko
-**Date of Birth:** March 28, 1981 (**Age:** 44)  
+**Date of Birth:** March 28, 1981 (**Age:** 45)  
 **Location:** Zaporizhzhia, Ukraine
 
 **Telegram:** [@alexander_ti](https://t.me/alexander_ti)  
@@ -11,8 +11,13 @@
 
 - *Hard skills*
   - Experience with relational DBMSs  (PostgreSQL, MySQL);
-  - Basic knowledge of Python, including aiogram library and FastAPI framework;
-  - HTML/CSS knowledge;
+  - knowledge of Python:
+    - scripting;
+    - creating Telegram bots using aiogram library;
+    - creating web applications (backend) using Flask;
+  - knowledge of software testing principles (manual and automated);
+  - basic HTML/CSS knowledge;
+  - experience with basic Git commands.
 
 - *Soft skills*
   - Analytical mind;
@@ -23,9 +28,13 @@
    - ukrainian, russian - native (C2);
    - english - intermediate (B1)
 
-## Sertificates
+## Courses and sertificates
 
-- **HackerRank:** [SQL (Intermediate)](https://www.hackerrank.com/certificates/f798954e16da)
+- **Software testing** (fundamentals level) - EPAM, Sep 07, 2026;
+- **Authomated Testing in Python** (beginner level) - EPAM, May 05, 2026;
+- [**Databases and SQL from Beginner to Advanced**](https://stepik.org/cert/2940880) - Stepik, Aug 21, 2025;
+
+- [**SQL Intermediate**](https://www.hackerrank.com/certificates/f798954e16da) (sertificate) - Apr 12, 2025.
 
  ## Education
  
